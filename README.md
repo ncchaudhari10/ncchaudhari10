@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello World, I'm Niraj 👋</h1>
 
 ### 🚀 About Me
